@@ -1,0 +1,19 @@
+table {
+	font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;
+	margin:auto;
+}
+.button{
+	background-color: white;
+    color: black;
+	border: 2px solid #000000;
+}
+
+.text{
+	font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:15px;
+}
+
+td, th{
+	padding:5px;
+}
